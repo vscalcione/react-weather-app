@@ -8,15 +8,15 @@ body{
   font-family: "montserratt", sans-serif;
 }
 
-.app{
-  background-image: url("./assets/fishing-iceland.jpg");
+.app-cold{
+  background-image: url("assets/cold-background.jpg");
   background-size: cover;
   background-position: bottom;
   transition: 0.4s ease-out;
 }
 
 .app-warm{
-  background-image: url("https://images.hdqwalls.com/download/warm-sunset-4k-ou-3840x2160.jpg");
+  background-image: url("assets/warm-background.jpg");
   background-size: cover;
   background-position: bottom;
   transition: 0.4s ease-out;

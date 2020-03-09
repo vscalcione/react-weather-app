@@ -19,7 +19,7 @@ function App() {
   };
 
   return (
-    <div className={"app"}>
+    <div className={"app-cold"}>
       <main>
         <div className={"search-box"}>
             <input type="text" className={"search-bar"} placeholder={"Search City..."} />
